@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 :computer: **Ingeniero de sistemas en proceso**
-:eyeglasses: **Nerd empedernido**
-:incoming_motorcycle: **Fan de las motos y carreras**
+:monocle_face: **Nerd empedernido**
+:motorcycle: **Fan de las motos y carreras**
 
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Coco-Monkey/Coco-Monkey)
