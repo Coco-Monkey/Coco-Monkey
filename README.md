@@ -1,10 +1,13 @@
-## Hi, im Juan better known as Coco. 👋
+## Hi
+# I'm Juan better known as Coco. 👋
 
 
 ## About me
+---
 :computer: **Systems Engineergin Student**
 :monocle_face: **Nerd**
 :motorcycle: **Motorcycle enthusiast**
+---
 
 
 | Rank | THING-TO-RANK |
