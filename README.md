@@ -1,8 +1,17 @@
-## Hi there 👋
+## Hi, im Juan better known as Coco. 👋
 
-:computer: **Ingeniero de sistemas en proceso**
-:monocle_face: **Nerd empedernido**
-:motorcycle: **Fan de las motos y carreras**
+
+## About me
+:computer: **Systems Engineergin Student**
+:monocle_face: **Nerd**
+:motorcycle: **Motorcycle enthusiast**
+
+
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|  Python       |
+|     2|  MySQL        |
+|     3|  Ruby         |
 
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Coco-Monkey/Coco-Monkey)
