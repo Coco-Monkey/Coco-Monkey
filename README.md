@@ -1,6 +1,3 @@
-## Hi
-# I'm Juan better known as Coco. 👋
-
 ![header](https://capsule-render.vercel.app/api?type=waving&height=400&color=061161&text=Coco&section=header&reversal=false&textBg=false&fontAlign=50&animation=twinkling&fontColor=F5D491)
 
 ## About me
